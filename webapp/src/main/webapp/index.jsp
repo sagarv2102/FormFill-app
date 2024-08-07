@@ -7,6 +7,10 @@
 
    <label for="name"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
+  <label for="mother name"><b>name</b></label>
+    <input type="text" placeholder="mother namee" name="mother name" id="name" required>
+
+
     <br>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
